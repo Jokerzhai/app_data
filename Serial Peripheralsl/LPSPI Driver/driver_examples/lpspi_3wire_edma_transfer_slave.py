@@ -1,0 +1,1 @@
+from .lpspi_3wire_int_transfer_slave import *
